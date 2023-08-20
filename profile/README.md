@@ -1,4 +1,8 @@
-## Hi there 👋
+## under construction
+
+check back for updates...
+
+![demo gif of early buffer sync in action between vscode and nvim](https://cdn.alemi.dev/codemp/demo-vscode.gif)
 
 <!--
 
